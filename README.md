@@ -19,6 +19,7 @@ Fundamental Building Blocks:
 The model was trained for just 5 epochs and showed rapid, effective learning, demonstrating the power of backpropagation.
 
 Training Progress
+<img width="2397" height="828" alt="image" src="https://github.com/user-attachments/assets/f77b144f-4086-49bd-b6b1-bdb1f92ce7f9" />
 
 Training Accuracy (Left): The model's accuracy quickly climbs to nearly 80%, showing it is learning the underlying patterns in the data effectively.
 Training Time (Right): Each epoch is computationally inexpensive, taking only milliseconds to complete.
