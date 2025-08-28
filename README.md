@@ -26,7 +26,7 @@ Training Time (Right): Each epoch is computationally inexpensive, taking only mi
 🛠️ How to Run
 Clone the Repository
 
-git clone https://github.com/Ayush03A/Artificial-Neural-Network-with-Backpropagation-from-Scratch.git
+git clone 
 cd Artificial-Neural-Network-with-Backpropagation-from-Scratch
 Install Dependencies
 
